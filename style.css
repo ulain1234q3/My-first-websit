@@ -1,0 +1,41 @@
+              
+body {
+  background-image: url(2.jpg);
+}
+h1:hover{
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 3em;
+  border-bottom: 5px dotted red;
+  border-right: 5px dotted red;
+  border-top: 5px dotted red;
+  border-left: 5px dotted red;
+/*  width: 400px;*/
+  text-align: center;
+  -moz-box-shadow:4px 4px 5px red;
+  -ms-box-shadow: 4px 4px 5px red;
+  -webkit-box-shadow: 4px 4px 5px red;
+  -o-box-shadow: 4px 4px 5px red;
+  box-shadow: 4px 4px 5px red;
+}
+h1 {
+  font-family: fantasy;
+  font-size: 3em;
+  border-bottom: 5px dotted red;
+  border-right: 5px dotted red;
+   border-top:5px dotted red;
+  border-left: 5px dotted red;                                     
+/*  width: 800px;*/
+  text-align: center;
+  -moz-box-shadow:4px 4px 5px #888888;
+  -ms-box-shadow: 4px 4px 5px #888888;
+  -webkit-box-shadow: 4px 4px 5px #888888;
+  -o-box-shadow: 4px 4px 5px #888888;
+  box-shadow: 4px 4px 5px #888888;
+  }
+
+div{
+  color: black;
+    text-align: center;
+    font-size:20px;
+    padding: 1rem 2rem;
+}
